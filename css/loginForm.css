@@ -1,0 +1,16 @@
+#content-container form#login-form{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 510px;
+    background: #f3f3f3;
+    border: 1px #e0e0e0 solid;
+    padding: 20px;
+    padding-bottom: 10px;
+    border-radius: 12px;
+}
+
+#content-container form#login-form h2{
+    margin: 0;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 10px;
+}

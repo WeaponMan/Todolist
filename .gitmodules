@@ -1,0 +1,3 @@
+[submodule "lib/Snabb"]
+	path = lib/Snabb
+	url = git@github.com:WeaponMan/Snabb.git
